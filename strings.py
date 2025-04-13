@@ -1,4 +1,4 @@
-#
+#Practice all Methods
 string="TeCHNOlogicalUNIversiTY"
 vowel_set=[]
 consonant_set=[]
@@ -11,7 +11,7 @@ for i in string:
         consonant_set.append(i)
 print("There are",len(vowel_set),"vowels in a given  string")
 print("There are",len(consonant_set),"consonant in a given  string")
-#
+# Take a string it contains both upper and lower case ,print the no of vowels and consonants present in the string
 string=" rajasri "
 print(string.upper())
 print(string.lower())
